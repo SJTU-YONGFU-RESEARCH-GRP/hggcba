@@ -42,6 +42,32 @@ iverilog -g2012 -o /tmp/tb_hggcba \
 vvp /tmp/tb_hggcba
 ```
 
+## Citation
+
+This work has been accepted by APCCAS 2026. If you use this repository in academic work, please cite the paper below. Proceedings pages and a DOI are not yet assigned.
+
+```bibtex
+@inproceedings{Wang2026APCCAS,
+  author    = {Wang, Chao and Du, Haochen and Cheah, Kian Kit and Hou, Yuting and Li, Yongfu},
+  title     = {Hierarchical Group-Generate Carry-Bypass Adder: A Physically Scalable and Efficient Topology for Ultra-Wide Datapaths},
+  booktitle = {IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)},
+  year      = {2026},
+  address   = {Fukuoka, Japan},
+  month     = oct,
+  note      = {accepted; open implementation: \url{https://github.com/SJTU-YONGFU-RESEARCH-GRP/hggcba}}
+}
+```
+
+```bibtex
+@software{hggcba,
+  title   = {hggcba: Hierarchical Group-Generate Carry-Bypass Adder},
+  author  = {Wang, Chao and Du, Haochen and Cheah, Kian Kit and Hou, Yuting and Li, Yongfu},
+  year    = {2026},
+  url     = {https://github.com/SJTU-YONGFU-RESEARCH-GRP/hggcba},
+  license = {CC-BY-4.0}
+}
+```
+
 ## License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

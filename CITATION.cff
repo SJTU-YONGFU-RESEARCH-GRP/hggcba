@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the accepted APCCAS 2026 paper.
+  Proceedings pages and a DOI are not yet assigned.
+type: software
+title: "hggcba: Hierarchical Group-Generate Carry-Bypass Adder"
+authors:
+  - family-names: Wang
+    given-names: Chao
+    affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+  - family-names: Du
+    given-names: Haochen
+    affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+  - family-names: Cheah
+    given-names: Kian Kit
+    affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+  - family-names: Hou
+    given-names: Yuting
+    affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+    email: besthyt@sjtu.edu.cn
+  - family-names: Li
+    given-names: Yongfu
+    affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+    email: yongfu.li@sjtu.edu.cn
+repository-code: https://github.com/SJTU-YONGFU-RESEARCH-GRP/hggcba
+url: https://github.com/SJTU-YONGFU-RESEARCH-GRP/hggcba
+license: CC-BY-4.0
+year: 2026
+preferred-citation:
+  type: conference-paper
+  title: >-
+    Hierarchical Group-Generate Carry-Bypass Adder: A Physically Scalable and
+    Efficient Topology for Ultra-Wide Datapaths
+  authors:
+    - family-names: Wang
+      given-names: Chao
+      affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+    - family-names: Du
+      given-names: Haochen
+      affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+    - family-names: Cheah
+      given-names: Kian Kit
+      affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+    - family-names: Hou
+      given-names: Yuting
+      affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+      email: besthyt@sjtu.edu.cn
+    - family-names: Li
+      given-names: Yongfu
+      affiliation: School of Integrated Circuits, Shanghai Jiao Tong University
+      email: yongfu.li@sjtu.edu.cn
+  year: 2026
+  collection-title: >-
+    2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
+  conference:
+    name: IEEE Asia Pacific Conference on Circuits and Systems
+    city: Fukuoka
+    country: JP
+    date-start: 2026-10-25
+    date-end: 2026-10-28
+  publisher:
+    name: IEEE
+  url: https://apccas2026.org/
+  notes: Accepted. Proceedings pages and a DOI are not yet assigned.
